@@ -1,0 +1,39 @@
+.text-center{
+  text-align: center;
+}
+.button{
+  text-align: center;
+  align-items: center;
+}
+.container{
+  align-content: cneter;
+  align-items: center;
+}
+.bg-red{
+  background: lightblue;
+}
+.max-auto{
+  margin: auto;
+}
+.flex{
+  display: flex;
+}
+.flex-col{
+  flex-direction: column;
+}
+
+.items-center{
+  align-items: center;
+}
+
+.input{
+  border: 2px black;
+  border-radius:9px ;
+}
+.row input{
+  font-size: 20px;
+  margin: 0;
+  padding: 10px 0px;
+  border: black;
+  border-radius: 9px;
+}
